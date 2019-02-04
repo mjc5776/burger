@@ -1,0 +1,52 @@
+body {
+   
+    background-image: url("/assets/img/restaurant.jpg");
+    background-size: cover;
+   
+  }
+  
+  img {
+    width: 25%;
+  }
+  
+  .title {
+    color: #e05c22;
+    font-family: 'Fontdiner Swanky', cursive;
+    
+
+  }
+  
+  .secTitle{
+    color: #bc001f;
+    font-size: 30px;
+    font-family: 'Fontdiner Swanky', cursive; 
+  }
+
+  .readyTitle{
+    color: #a6dc72;
+    font-size: 30px;
+    font-family: 'Fontdiner Swanky', cursive; 
+  }
+
+  .buttonStyle{
+    color: white;
+    background-color: #72ce1d;
+    font-size: 28px;
+    font-family: 'Fontdiner Swanky', cursive;
+    border-radius: 9px;
+    
+  }
+
+  .input-group{
+    color: #bc001f;
+    font-size: 30px;
+    font-family: 'Cherry Cream Soda', cursive;
+  }
+
+  .form-control{
+    color: #FFF8DC;
+    font-size: 20px;
+    font-family: 'Cherry Cream Soda', cursive;
+    background-color:transparent;
+    border-color: transparent;
+  }
